@@ -9,7 +9,7 @@
     <a href="https://t.me/Vamp_The_Queen"> Support Chat </a> 
 </p>
     
-# Tesla Music Bot
+# BHAIRAVOWNER Music Bot
 A Powerful Telegram Music+Video Bot by which you can stream songs, videos and even live streams in your group calls via various sources. It comes with  user friendly and easy to use yet elegant features.
 
 ## Deployment
